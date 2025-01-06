@@ -42,4 +42,3 @@ This project uses the following Python libraries:
 
 4. **Histograms:**
    - Analyzes the distribution of passenger traffic and rankings.
-
